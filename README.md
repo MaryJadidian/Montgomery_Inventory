@@ -1,0 +1,3 @@
+# Montgomery_Inventiru
+Excel Skills
+[Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.xlsx](https://github.com/MaryJadidian/Montgomery_Inventiru/files/10946490/Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.xlsx)
